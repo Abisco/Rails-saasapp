@@ -10,5 +10,5 @@ Bootstrap 3.3.7
 Stripe
 Heroku
 
-##URL
+## URL
 The app is viewable here: https://rails-saasapp.herokuapp.com/

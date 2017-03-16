@@ -1,24 +1,14 @@
-# README
+# DevMatch
+A program made for the UpSkill course
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Uses Ruby 2.3.0
+Rails 5.0.0
+PostgreSQL
 
-Things you may want to cover:
+Also uses:
+Bootstrap 3.3.7
+Stripe
+Heroku
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##URL
+The app is viewable here: https://rails-saasapp.herokuapp.com/

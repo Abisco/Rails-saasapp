@@ -7,7 +7,7 @@ gem 'puma', '3.4.0'
 gem 'sass-rails', '5.0.6'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '3.0.0'
-# Use CoffeeScript for .coffee assets and views
+# Use CoffeeScript for .coffee assets and viewsgit
 gem 'coffee-rails', '4.2.1'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
@@ -30,6 +30,8 @@ gem 'font-awesome-sass', '4.6.2'
 
 # Use Hirb gem for better console data presentation
 gem 'hirb', '0.7.3'
+
+gem 'devise', '4.2.0'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
